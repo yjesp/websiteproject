@@ -21,7 +21,10 @@
     <main>
         <section id="introduction">
             <h2>Explore the World with Us</h2>
-            <p>Join us as we share our adventures and travel tips from around the globe.</p>
+            <p>Join us as we share our adventures and travel tips from around the globe.
+               You will find good and fantastic place. We hope you have a great memory 
+               about this journey
+            </p>
             <img src="images/travel.jpg" alt="Travel Image" loading="lazy">
         </section>
         
